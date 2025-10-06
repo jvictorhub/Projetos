@@ -6,7 +6,7 @@
 */
 
 #include <stdio.h> // para os comandos: printf(), scanf(), getchar()
-#include <string.h> //para o comando: strcmg(x1, x2)
+#include <string.h> //para o comando: strcmp(x1, x2)
 #include <stdlib.h> //para o comando: system()
 
 void options();
