@@ -1,6 +1,6 @@
 /*
     Desenvolvido por João Victor Rodrigues da Silva
-    Estudante da Univerdade Estadual Vale do Rio Acaraú - UEVA
+    Estudante da Universidade Estadual Vale do Acaraú - UEVA
     Sugestão de compilação:
         gcc bomdia.c -o bomdia
 */
